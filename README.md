@@ -17,9 +17,8 @@
 <P>Este dispositivo está alinhado com os Ojetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030, especialmente com a 9º ODS (Indústria, Inovação e Infraestrutura), contribuindo para um mundo mais sustentável e seguro. Essa inovação busca solucionar uma das principais falhas dos sensores de incêndios atuais, que frequentemente apresentam baixo desempenho. Com este dispositivo, espera-se reduzir significativamente a incidência de incêndios no Brasil, ao mesmo tempo em que se promove a eficácia e a eficiência no monitoramento.</P>
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
-</p>
+<img src="https://github.com/user-attachments/assets/0a66f10f-6a4f-46b7-9f00-bb8b2c68d559" alt="Img Projeto pelo Wokwi" border="0"><a href="https://wokwi.com/projects/414743970228862977">Projeto pelo Wokwi</a></p>
+
 
 ## 🛠 Estrutura de pastas
 
