@@ -1,6 +1,8 @@
 {
   "version": 1,
   "author": "Vitor Melo",
+  "author": "Renan Damprelli",
+  "author": "Mauricio Santos",
   "editor": "wokwi",
   "parts": [
     { "type": "wokwi-breadboard-half", "id": "bb1", "top": -41.4, "left": 79.6, "attrs": {} },

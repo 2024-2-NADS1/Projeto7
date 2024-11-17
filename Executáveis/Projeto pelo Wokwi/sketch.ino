@@ -1,5 +1,5 @@
-#include <DHT.h> // Infelizmente aqui no site WOKWI não tem o sensor de gás (MQ-2) e nem o DHT11
- // Optamos em substituir o MQ-2 pelo Potenciômetro, e DHT11 pelo DHT22 (Não muda muita coisa)
+#include <DHT.h> // Infelizmente no site WOKWI não tem o sensor de gás (MQ-2) e nem o DHT11
+ // Optamos em substituir o MQ-2 pelo Potenciômetro, e DHT11 pelo DHT22.
 
 #define DHTPIN 21 // Pino onde o DHT22 está conectado
 #define DHTYPE DHT22 // Definindo o tipo de sensor
