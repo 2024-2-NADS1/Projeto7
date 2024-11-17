@@ -19,42 +19,6 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/0a66f10f-6a4f-46b7-9f00-bb8b2c68d559" alt="Img Projeto pelo Wokwi" border="0"><a href="https://wokwi.com/projects/414743970228862977">Projeto pelo Wokwi</a></p>
 
-
-## 🛠 Estrutura de pastas
-
--Raiz<br>
-<br>
-|--> Documentos<br>
-  &emsp;|--> Algoritmos e Lógica de Programação<br>
-  &emsp;&emsp;|--> Entrega 1<br><br>
-  &emsp;|--> Banco de Dados<br>
-  &emsp;&emsp;|--> Entrega 1<br>
-    &emsp;&emsp;&emsp;| Modelagem Conceitual.pdf<br><br>
-  &emsp;|--> Métodos Quantitativos<br>
-   &emsp;&emsp;|--> Entrega 1<br>
-    &emsp;&emsp;&emsp;| Tabela-Verdade.pdf<br>
-     &emsp;&emsp;|--> Entrega 2<br>
-      &emsp;&emsp;&emsp;| Probabilidade p/todos os sensores.pdf<br><br>
-  &emsp;|--> Redes de Computadores<br>
-  &emsp;&emsp;|--> Entrega 1<br>
-  &emsp;&emsp;&emsp;| Justificativa.pdf<br>
-  &emsp;&emsp;|--> Entrega 2<br>
-  &emsp;&emsp;&emsp;| Teste de comunicação.pdf<br>
-  &emsp;&emsp;|--> Entrega 3<br>
-    &emsp;&emsp;&emsp;| Enviar Dados do Hardware para a Web.pdf<br>
-  &emsp;&emsp;|--> Entrega 4<br>
-    &emsp;&emsp;&emsp;| Todo o Hardware Implementado.pdf<br><br>
-|--> Executáveis<br>
-     &emsp;&emsp;| Projeto pelo Wokwi<br><br>
-|--> Imagens<br>
-       &emsp;&emsp;| Img Projeto 1<br>
-       &emsp;&emsp;| Img Projeto 2<br>
-       &emsp;&emsp;| Img Projeto 3<br><br>
-|--> SRC<br>
-  &emsp;| Backend<br>
-  &emsp;| Frontend<br><br>
-| README.md<br><br>
-
 ## 🛠 Instalação
 
 <b>Android:</b>
@@ -93,6 +57,40 @@ make install
 npm test
 Coloque código do prompt de comnando se for necessário
 ```
+## 🛠 Estrutura de pastas
+
+-Raiz<br>
+<br>
+|--> Documentos<br>
+  &emsp;|--> Algoritmos e Lógica de Programação<br>
+  &emsp;&emsp;|--> Entrega 1<br><br>
+  &emsp;|--> Banco de Dados<br>
+  &emsp;&emsp;|--> Entrega 1<br>
+    &emsp;&emsp;&emsp;| Modelagem Conceitual.pdf<br><br>
+  &emsp;|--> Métodos Quantitativos<br>
+   &emsp;&emsp;|--> Entrega 1<br>
+    &emsp;&emsp;&emsp;| Tabela-Verdade.pdf<br>
+     &emsp;&emsp;|--> Entrega 2<br>
+      &emsp;&emsp;&emsp;| Probabilidade p/todos os sensores.pdf<br><br>
+  &emsp;|--> Redes de Computadores<br>
+  &emsp;&emsp;|--> Entrega 1<br>
+  &emsp;&emsp;&emsp;| Justificativa.pdf<br>
+  &emsp;&emsp;|--> Entrega 2<br>
+  &emsp;&emsp;&emsp;| Teste de comunicação.pdf<br>
+  &emsp;&emsp;|--> Entrega 3<br>
+    &emsp;&emsp;&emsp;| Enviar Dados do Hardware para a Web.pdf<br>
+  &emsp;&emsp;|--> Entrega 4<br>
+    &emsp;&emsp;&emsp;| Todo o Hardware Implementado.pdf<br><br>
+|--> Executáveis<br>
+     &emsp;&emsp;| Projeto pelo Wokwi<br><br>
+|--> Imagens<br>
+       &emsp;&emsp;| Img Projeto 1<br>
+       &emsp;&emsp;| Img Projeto 2<br>
+       &emsp;&emsp;| Img Projeto 3<br><br>
+|--> SRC<br>
+  &emsp;| Backend<br>
+  &emsp;| Frontend<br><br>
+| README.md<br><br>
 
 ## 📋 Licença/License
 
