@@ -1,0 +1,18 @@
+  Foi usado a linguagem de programação C# p/ a realização da entrega da Acurácia para uma melhor visualização de resultados da 
+verificação da taxa de acertos de todos os sensores. 
+  O que é acuracia?
+ É a razão entre o número de leituras corretas do sensor e o número total de leituras realizadas, expressa como uma porcentagem.
+  Fórmula da acurácia:
+ Acurácia = (Nº de leituras corretas / Nº total de leituras) * 100
+
+  Para poder visualizar cada nº de leitura e a probabilidade da taxa de acerto:
+  ABRA A PASTA
+ --> Documentos
+   --> Métodos Quantitativos
+     -->Entrega 2
+       |Acurácia.cs 
+  Lá terá todos os numeros de leitura para cada sensor, mas para visualizar o resultado recomendo que copie o link abaixo no
+navegador para abrir um emulador de códigos de programação, e chegando lá aperte em um botão verde chamado "Run" e assim a própria
+programação dará a probabilidade de acertos de cada sensores e ficará mais nítido os resultados para melhor visualização.
+
+  Link do emulador já com o código: <a href="https://onlinegdb.com/GSg3bM26T">https://onlinegdb.com/GSg3bM26T</a>
