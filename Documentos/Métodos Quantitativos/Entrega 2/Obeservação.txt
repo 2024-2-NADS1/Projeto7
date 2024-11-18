@@ -15,4 +15,4 @@ verificação da taxa de acertos de todos os sensores.
 navegador para abrir um emulador de códigos de programação, e chegando lá aperte em um botão verde chamado "Run" e assim a própria
 programação dará a probabilidade de acertos de cada sensores e ficará mais nítido os resultados para melhor visualização.
 
-  Link do emulador já com o código: <a href="https://onlinegdb.com/GSg3bM26T">https://onlinegdb.com/GSg3bM26T</a>
+  Link do emulador já com o código: https://onlinegdb.com/GSg3bM26T
