@@ -19,7 +19,7 @@
       "type": "wokwi-resistor",
       "id": "r1",
       "top": 13.55,
-      "left": 124.8,
+      "left": 134.4,
       "attrs": { "value": "220" }
     },
     {
@@ -34,14 +34,13 @@
       "id": "dht1",
       "top": -105.3,
       "left": 292.2,
-      "attrs": { "humidity": "41.5", "temperature": "3.9" }
+      "attrs": { "humidity": "57.5", "temperature": "11.3" }
     },
     { "type": "wokwi-potentiometer", "id": "pot1", "top": 37.1, "left": 326.2, "attrs": {} }
   ],
   "connections": [
     [ "esp:TX", "$serialMonitor:RX", "", [] ],
     [ "esp:RX", "$serialMonitor:TX", "", [] ],
-    [ "bb1:9t.a", "bb1:tn.7", "black", [ "v0" ] ],
     [ "bb1:tn.1", "esp:GND.2", "black", [ "v-0.1", "h-46.4", "v144", "h-9.6" ] ],
     [ "esp:3V3", "bb1:tp.1", "red", [ "v-47.85" ] ],
     [ "bb1:14t.b", "bb1:tn.9", "black", [ "v0", "h-28.8" ] ],
@@ -55,19 +54,20 @@
     [ "bb1:bp.25", "bb1:tp.25", "red", [ "v-0.9", "h20.8", "v-172.8" ] ],
     [ "pot1:SIG", "esp:34", "green", [ "v19.2", "h-269.2", "v-115.2", "h-76.8" ] ],
     [ "esp:GND.3", "bb1:bn.1", "black", [ "v48", "h115.2" ] ],
-    [ "r1:1", "bb1:3t.b", "", [ "$bb" ] ],
-    [ "r1:2", "bb1:9t.b", "", [ "$bb" ] ],
     [ "bz1:1", "bb1:14t.a", "", [ "$bb" ] ],
     [ "bz1:2", "bb1:15t.a", "", [ "$bb" ] ],
-    [ "dht1:VCC", "bb1:22t.a", "", [ "$bb" ] ],
-    [ "dht1:SDA", "bb1:23t.a", "", [ "$bb" ] ],
-    [ "dht1:NC", "bb1:24t.a", "", [ "$bb" ] ],
-    [ "dht1:GND", "bb1:25t.a", "", [ "$bb" ] ],
+    [ "r1:1", "bb1:4t.b", "", [ "$bb" ] ],
+    [ "r1:2", "bb1:10t.b", "", [ "$bb" ] ],
+    [ "bb1:tn.8", "bb1:10t.a", "black", [ "v0" ] ],
+    [ "led1:A", "bb1:5t.a", "", [ "$bb" ] ],
+    [ "led1:C", "bb1:4t.a", "", [ "$bb" ] ],
     [ "pot1:GND", "bb1:27b.i", "", [ "$bb" ] ],
     [ "pot1:SIG", "bb1:28b.i", "", [ "$bb" ] ],
     [ "pot1:VCC", "bb1:29b.i", "", [ "$bb" ] ],
-    [ "led1:A", "bb1:5t.a", "", [ "$bb" ] ],
-    [ "led1:C", "bb1:4t.a", "", [ "$bb" ] ]
+    [ "dht1:VCC", "bb1:22t.a", "", [ "$bb" ] ],
+    [ "dht1:SDA", "bb1:23t.a", "", [ "$bb" ] ],
+    [ "dht1:NC", "bb1:24t.a", "", [ "$bb" ] ],
+    [ "dht1:GND", "bb1:25t.a", "", [ "$bb" ] ]
   ],
   "dependencies": {}
 }
