@@ -63,7 +63,8 @@ Coloque código do prompt de comnando se for necessário
 <br>
 |--> Documentos<br>
   &emsp;|--> Algoritmos e Lógica de Programação<br>
-  &emsp;&emsp;|--> Entrega 1<br><br>
+  &emsp;&emsp;|--> Entrega 1<br>
+  &emsp;&emsp;&emsp;| Justificativa do Código.pdf<br><br>
   &emsp;|--> Banco de Dados<br>
   &emsp;&emsp;|--> Entrega 1<br>
     &emsp;&emsp;&emsp;| Modelagem Conceitual.pdf<br><br>
@@ -71,10 +72,11 @@ Coloque código do prompt de comnando se for necessário
    &emsp;&emsp;|--> Entrega 1<br>
     &emsp;&emsp;&emsp;| Tabela-Verdade.pdf<br>
      &emsp;&emsp;|--> Entrega 2<br>
-      &emsp;&emsp;&emsp;| Probabilidade p/todos os sensores.pdf<br><br>
+      &emsp;&emsp;&emsp;| Acurácia-C#<br>
+      &emsp;&emsp;&emsp;| Introduções da Acurácia<br><br>
   &emsp;|--> Redes de Computadores<br>
   &emsp;&emsp;|--> Entrega 1<br>
-  &emsp;&emsp;&emsp;| Justificativa.pdf<br>
+  &emsp;&emsp;&emsp;| Escolha e Justificativa do Protocolo de Comunicação.pdf<br>
   &emsp;&emsp;|--> Entrega 2<br>
   &emsp;&emsp;&emsp;| Teste de comunicação.pdf<br>
   &emsp;&emsp;|--> Entrega 3<br>
@@ -84,9 +86,10 @@ Coloque código do prompt de comnando se for necessário
 |--> Executáveis<br>
      &emsp;&emsp;| Projeto pelo Wokwi<br><br>
 |--> Imagens<br>
-       &emsp;&emsp;| Img Projeto 1<br>
-       &emsp;&emsp;| Img Projeto 2<br>
-       &emsp;&emsp;| Img Projeto 3<br><br>
+       &emsp;&emsp;| Img Projeto 1.jpg<br>
+       &emsp;&emsp;| Img Projeto 2.jpg<br>
+       &emsp;&emsp;| Img Projeto 3.jpg<br>
+       &emsp;&emsp;| Img Projeto peo Wokwi.jpg<br><br>
 |--> SRC<br>
   &emsp;|--> Backend<br>
   &emsp;&emsp;| blynk.ino<br>
