@@ -1,0 +1,5 @@
+ Lista da Biblioteca utilizado pelo Wokwi
+ Veja pelo link: https://docs.wokwi.com/guides/libraries
+
+- DHT22
+- DHT sensor library

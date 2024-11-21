@@ -1,0 +1,6 @@
+  Decidimos fazer um projeto virtual para melhor visualização mas no Wokwi, infelizmente, não tem o sensor MQ-2 (Sensor de Gás/Fumaça),
+então substituimos o mesmo sensor pelo potenciômetro que fará a mesma função, pois assim que o potenciômetro atingir o nível predefinido
+o buzzer e o led serão acionados. 
+  Também substituimos o DTH11 (sensor que estamos utilizando no projeto físico) pelo DTH22, talvez não irá mudar muita coisa pois ambos 
+tem a mesma funcionalidade tanto de sensor de temperatura e Umidade, e assim que o mesmo atingir um valor X o buzzer e o led também serão
+acionados. E dentro da pasta Executáveis/Projeto pelo Wokwi tem o link para o projeto e a descrição do código e da biblioteca. 
